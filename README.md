@@ -13,4 +13,8 @@
 9. Now go to https://github.com/parnika25/Hackathon 
 10. Create your own PR
 
+~If someone pushes their changes in their respective branch and they are further pushed to main branch~
+
+11. git fetch origin
+
 That's it! :]
